@@ -9,7 +9,7 @@ A simple animation of a bowling ball crashing into a set of bowling pins created
 ![Smash Scene](https://user-images.githubusercontent.com/57411348/120072150-eb095800-c0af-11eb-80bf-7b39e0974b81.png)
 
 
-## Final Render
+## Final Render Smash Scene
 
 https://user-images.githubusercontent.com/57411348/120072221-52270c80-c0b0-11eb-8a78-1c5a4f16c733.mov
 
