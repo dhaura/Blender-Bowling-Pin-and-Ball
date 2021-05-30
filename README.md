@@ -1,5 +1,7 @@
 # Blender Bowling Pin and Ball
 
+<img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+
 A simple animation of a bowling ball crashing into a set of bowling pins created using Blender.
 
 ## Hghlights
